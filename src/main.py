@@ -20,7 +20,7 @@ import numpy as np
 from rich.console import Console
 
 # Nomes das pastas em assets/ 
-ZONAS = ["zona1_mesa", "zona2_prato", "zona3_copo"]
+ZONAS = ["zona1_mesa", "zona2_vaso", "zona3_copo"]
 FPS_ANIM = 24
 TAMANHO = 220        # tamanho do overlay (px)
 PAUSA = 1         # segundos sem movimento até terminar a deteção
